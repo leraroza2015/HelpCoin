@@ -1,0 +1,1 @@
+minerd --url=http://127.0.0.1:33334 --userpass=rpc_helpcoin:/you-password/
